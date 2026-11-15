@@ -1,0 +1,26 @@
+[
+  {
+    "id": "690384296522497e93a72cb4e2c7078a",
+    "name": "College",
+    "description": "Classes, assignments and study-related activities.",
+    "symbol": "✎"
+  },
+  {
+    "id": "23b65c08d2fc4840bc749b8815b31c5d",
+    "name": "Coding",
+    "description": "Programming projects and experiments.",
+    "symbol": "⚙"
+  },
+  {
+    "id": "583ba6a5276c452f85c31018328c28fd",
+    "name": "Research",
+    "description": "Research materials and collected information.",
+    "symbol": "❦"
+  },
+  {
+    "id": "3324b2d92cf142aea25c2869c3e57dd0",
+    "name": "Personal",
+    "description": "Personal tasks and everyday activities.",
+    "symbol": "☾"
+  }
+]

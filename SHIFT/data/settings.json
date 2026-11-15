@@ -1,0 +1,12 @@
+{
+  "theme": "Forest",
+  "focus_minutes": 25,
+  "name": "Scholar",
+  "intentions": {
+    "583ba6a5276c452f85c31018328c28fd": {
+      "date": "2026-11-15",
+      "text": "Complete UROP Literature Review"
+    }
+  },
+  "workspace": "583ba6a5276c452f85c31018328c28fd"
+}
